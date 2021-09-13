@@ -8,7 +8,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-#/logs
+logs/
+ad/Class2.cs
+
 
 # User-specific files
 *.rsuser
