@@ -8,5 +8,6 @@ namespace Git_Test
 {
     class Class1
     {
+        int c = 33;
     }
 }
